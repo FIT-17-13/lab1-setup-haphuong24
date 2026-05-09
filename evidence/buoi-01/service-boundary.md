@@ -5,8 +5,8 @@
 - Tên nhóm: Nhóm 9
 - Lớp: CNTT17-13
 - Thành viên: Hà Huy Khánh Dương, Nguyễn Hà Phương, Dương Thị Hoài, Đặng Thị Huyền
-- Service nhóm phụ trách:
-- Sản phẩm tổng thể của lớp:
+- Service nhóm phụ trách: B1 + B7 
+- Sản phẩm tổng thể của lớp: Product B
 
 ## 2. Actor
 - **Thiết bị/Cảm biến IoT:** Gửi dữ liệu thông số môi trường, hình ảnh camera về hệ thống.
